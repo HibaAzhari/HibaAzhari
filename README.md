@@ -1,5 +1,5 @@
 ## Hello 👋
-##### I'm Hiba, a recent CS grad and software developer, passionate about Java development
+##### I'm Hiba, a recent CS grad and software developer, passionate about web development
 
 <!--
 **HibaAzhari/HibaAzhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
